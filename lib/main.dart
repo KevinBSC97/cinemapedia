@@ -23,7 +23,3 @@ class MainApp extends StatelessWidget {
     );
   }
 }
-
-// git remote add origin https://github.com/KevinBSC97/cinemapedia.git
-// git branch -M main
-// git push -u origin main
