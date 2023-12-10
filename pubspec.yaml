@@ -16,11 +16,17 @@ dependencies:
   card_swiper: ^2.0.4
   animate_do: ^3.0.2
   intl: ^0.18.0
+  isar: ^3.0.5
+  isar_flutter_libs: ^3.0.5
+  path_provider: ^2.1.1
+  flutter_staggered_grid_view: ^0.6.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  isar_generator: ^3.0.5
+  build_runner: ^2.3.3
 
 flutter:
   uses-material-design: true
