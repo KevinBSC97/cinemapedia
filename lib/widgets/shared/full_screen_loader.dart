@@ -10,7 +10,7 @@ class FullScreenLoader extends StatelessWidget {
       'Cargando populares',
       'Llamando a mi novia',
       'Ya casi...',
-      'Esta está tardando más de lo esperado'
+      'Esto está tardando más de lo esperado'
     ];
     return Stream.periodic(const Duration(microseconds: 1200), (step){
       return messages[step];
